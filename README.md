@@ -4,3 +4,5 @@ Bonjour nous avons  eu des problèmes pour partager le code sur ce repository je
 
 TEA 3 : Branche TEA3 ; 
 TEA 2 : Branche Main
+
+CR disponible à cette adresse : https://docs.google.com/document/d/1DUtLTn3N7AShOmJiuLUziP736ABZDxJR2gpwm7Eln84/edit?usp=sharing
